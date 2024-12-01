@@ -1,4 +1,4 @@
-# SOC Overview
+# COURSE Overview
 1. Overview of SOC Design
 2. ARM architecture
 3. ARM-based SOC and development tools
